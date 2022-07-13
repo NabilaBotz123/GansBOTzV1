@@ -2,7 +2,7 @@ let fs = require('fs')
 let chalk = require('chalk')
 global.owner = [
   ['6281646829895'],
-  ['6289531704997'],
+  ['625624823115'],
   ['6281646829895', 'Nabila Official', true]  
   
 ] 
@@ -43,7 +43,7 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'Irfaan Official '
+  var sticker_name = 'Nabila Official '
   var sticker_author = '© AlfaraBotz'
 } else {
   var sticker_name = stickerpack.spackname
