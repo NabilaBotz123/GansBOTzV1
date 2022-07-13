@@ -6,7 +6,7 @@ global.owner = [
   ['6281646829895', 'Nabila Official', true]  
   
 ] 
-global.ownername = [['Irfaan Official']]
+global.ownername = [['Nabila Official']]
 global.namabot = [['AlfaraBotz']]
 global.ownerinsta = [['@b4c00t.dtz']]
 global.instalu = [['instagram.com/b4c00t.dtz']]
@@ -59,9 +59,9 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = 'Irfaan Official'
+global.packname = 'Nabila Official'
 global.author = 'AlfaraBotz'
-global.wm = '© Irfaan Official'
+global.wm = '© Nabila Official'
 
 global.multiplier = 100
 
